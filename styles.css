@@ -1,0 +1,233 @@
+.wrapper{
+    font-family:'Bai Jamjuree' ;
+}
+.head-photos{
+    position: relative;
+    margin:-10px;
+    margin-left: 0px;
+
+
+}
+.headphoto{
+    width: 100%;
+    margin-bottom: 0;
+}
+.clogo{
+    position: absolute;
+    left: 47%;
+    bottom: 150px;
+    transition: all .3s;
+    
+
+}
+.clogo:hover{
+    transform: scale(1.1);
+}
+h1{
+    text-align: center;
+    margin-top: 0;
+    color: rgba(0,0,0,.75);
+    word-spacing: px ;
+    margin-bottom: 0;
+    font-size: 2.3em;
+}
+.para{
+    text-align: center;
+    font-size: 1em;
+    color: rgba(0,0,0,.5);
+    margin-top: 15px;
+    margin-bottom: 3em;
+}
+.links{
+    position: relative;
+}
+.d-ios{
+    background-color:hsl(171, 66%, 44%);
+    padding: 10px 20px;
+    border-radius: 1.5em;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin: auto;
+    float: right;
+    margin-right: 38%;
+    transition: all .1s;
+
+    
+}
+.d-ios:hover{
+    transform: translateY(-3px);
+    box-shadow: 0px 10px 20px rgba(0,0,0,.3);
+}
+.d-ios:active{
+    transform: translateY(1px);
+    box-shadow: 0 5px 10px rgba(0,0,0,.3);
+}
+.d-mac{
+    padding: 10px 20px;
+    border-radius: 1.5em;
+    text-decoration: none;
+    color: white;
+    background-color: hsl(233, 100%, 69%);
+    float: left;
+    margin-left: 38%;
+    transition: all .1s;
+}
+.d-mac:hover{
+    transform: translateY(-3px);
+    box-shadow: 0px 10px 20px rgba(0,0,0,.3);
+}
+.d-mac:active{
+    transform: translateY(1px);
+    box-shadow: 0 5px 10px rgba(0,0,0,.3);
+}
+h2{
+    margin-top: 3em;
+    text-align: center;
+    color: rgba(0,0,0,.75);
+    margin-bottom: 0%;
+}
+.p1{
+    
+    text-align: center;
+    color: rgba(0,0,0,.5);
+    margin-bottom: 5rem;
+}
+.computer{
+    width: 50%;
+    display:inline;
+    float: left;
+    margin-right: 5.5em;
+}
+.comp{
+    display:inline;
+    margin-right: 20px;
+    padding: 100px ;
+    
+
+}
+.QS{
+    font-size: 1.3em;
+    color: rgba(0,0,0,.75);
+    margin-bottom: 0;
+}
+.eas{
+    color: rgba(0,0,0,.5);
+    margin-bottom: 50px;
+}
+.icloud{
+    color: rgba(0,0,0,.75);
+    font-size: 1.3em;
+    margin-bottom: 0;
+}
+.ins{
+    color: rgba(0,0,0,.5);
+    margin-bottom: 50px;
+}
+.complete{
+    color: rgba(0,0,0,.75);
+    font-size: 1.3em;
+    margin-bottom: 0;
+}
+.retrive{
+    color: rgba(0,0,0,.5);
+}
+.access{
+    margin-top: 170px;
+    color: rgba(0,0,0,.75);
+}
+.whether{
+    text-align: center;
+    color: rgba(0,0,0,.5);
+    margin-bottom: 5em;
+}
+.devices{
+    text-align: center;
+    display: block;
+    width: 80%;
+    margin:auto;
+}
+.super{
+    margin-top: 0%;
+    color: rgba(0,0,0,.75);
+}
+.we{
+    text-align: center;
+    color: rgba(0,0,0,.5);
+}
+.nav{
+    position: relative;
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+#footer1{
+    position: relative;
+    left: 10%;
+    width: 25%;
+    text-align: center;
+    color: rgba(0,0,0,.75);
+    
+    
+}
+.footer2{
+    position: absolute;
+    width: 25%;
+    color: rgba(,0,0,.75); 
+    right: 38%; 
+    text-align: center;
+    
+    
+    
+}
+.footer3{
+    position: absolute;
+    right: 10%;
+    width: 25%;
+    text-align: center;
+    color: rgba(0,0,0,.75);
+}
+#blacklist{
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+.ensure{
+    color: rgba(0,0,0,.5);
+}
+.remove{
+    color: rgba(0,0,0,.5);
+}
+.text{
+    display: block;
+    text-align: center;
+    margin: auto;
+
+}
+.preview{
+    display: block;
+    text-align: center;
+    margin: auto;    
+}
+.quick{
+    color: rgba(0,0,0,.5);
+}
+.brands{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.brands img{
+    height: 30px;
+    margin: 20px 42px;
+}
+.last h1{
+    margin-top: 110px;
+    color: rgba(0,0,0,.75);
+}
+.last p{
+    text-align: center;
+    color: rgba(0,0,0,.5);
+    margin-bottom: 60px;
+}-+
